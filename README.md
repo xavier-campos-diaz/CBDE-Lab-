@@ -1,6 +1,6 @@
-# CBDE-Lab 6
+# CBDE-Lab 5
 
 ## Xavier Campos Diaz
 ## Pau Ruiz Escobar
 
-Repository for the sixth laboratory assignment of CBDE
+Repository for the fifth laboratory assignment of CBDE
